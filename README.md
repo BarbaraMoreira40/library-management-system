@@ -68,6 +68,7 @@ def conectar():
         "DATABASE=BibliotecaDB;"
         "Trusted_Connection=yes;"
     )
+    
 Make sure the SERVER and DATABASE match your environment.
 
 ▶️ How to Run the Application
@@ -106,7 +107,10 @@ Listing Books:
 yaml
 Copiar
 Editar
-ID: 1, Title: The Alchemist, Author: Paulo Coelho, Year: 1988, Genre: Fiction
+ID: 1, Title: The Alchemist, 
+Author: Paulo Coelho,
+Year: 1988,
+Genre: Fiction
 
 🧠 Author
 Bárbara Moreira
