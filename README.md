@@ -1,4 +1,5 @@
-📚 Library Management System (Python + SQL Server)
+<h1 align="center" style="font-weight: bold;"📚 Library Management System (Python + SQL Server)"</h1>
+
 A simple command-line application to manage a book catalog using Python and SQL Server.
 This project demonstrates basic CRUD operations (Create, Read, Update, Delete) in a real database.
 
