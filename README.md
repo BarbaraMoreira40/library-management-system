@@ -29,6 +29,7 @@ nginx
 Copiar
 Editar
 pip install pyodbc
+
 3. Create the Database and Table
 Open SQL Server Management Studio (SSMS) and run the following SQL script:
 
