@@ -26,11 +26,15 @@ pyodbc (Python package for database connection)
 Make sure you have Python installed. Then run:
 
 nginx
+
 Copiar
+
 Editar
+
 pip install pyodbc
 
 3. Create the Database and Table
+   
 Open SQL Server Management Studio (SSMS) and run the following SQL script:
 
 pgsql
@@ -67,6 +71,7 @@ def conectar():
 Make sure the SERVER and DATABASE match your environment.
 
 ▶️ How to Run the Application
+
 Open the terminal and run:
 
 nginx
