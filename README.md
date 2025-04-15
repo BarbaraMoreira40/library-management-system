@@ -47,7 +47,9 @@ CREATE TABLE Livros (
     Ano_Publicacao INT NOT NULL,
     Genero NVARCHAR(100) NOT NULL
 );
+
 4. Configure the database connection in Python
+   
 The connection settings in biblioteca.py should look like this:
 
 python
