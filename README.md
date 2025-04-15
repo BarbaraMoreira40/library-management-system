@@ -117,10 +117,6 @@ Genre: Fiction
 
 
 
-📄 License
-This project is licensed under the MIT License.
-
-
 <table>
   <tr>
     <td align="center">
@@ -133,4 +129,7 @@ This project is licensed under the MIT License.
     </td>
   </tr>
 </table>
+
+📄 License
+This project is licensed under the MIT License.
 
